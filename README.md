@@ -7,7 +7,7 @@ Seja bem-vindo ao meu perfil!
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/vanessarpv/)
 
 <h2>Sobre Mim!</h2>
-Eu sou vanessa, tenho 33 anos. Atualmente, trabalho como analista de suporte de TI e ministro aula de informática básica. Estou em buscar de novos Conhecimento na área de ciência de Dados.
+Eu sou vanessa, tenho 33 anos. Atualmente trabalho como analista de suporte de TI e ministro aula de informática básica. Estou em buscar de novos Conhecimento na área de ciência de Dados.
 
 <h2>Linguagens!</h2>
 
